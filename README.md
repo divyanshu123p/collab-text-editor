@@ -4,6 +4,7 @@ ReactJs, NodeJs, MySQL(Prisma) and Express based full stack collaboration websit
 ---------------------------------------------------------------------------------
 Demo Video:
 
+https://github.com/user-attachments/assets/5cdad2a2-171c-4ef4-970a-aadd1ebca5ee
 
 ---------------------------------------------------------------------------------
 Stack Used:
