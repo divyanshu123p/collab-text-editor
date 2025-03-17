@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "module": "ESNext",
+      "esModuleInterop": true,
+      "target": "ESNext",
+      "moduleResolution": "Node",
+      "sourceMap": true,
+      "rootDir": "./src",
+      "outDir": "./dist"
+    //   "strict": true
+    }
+  }
+  
